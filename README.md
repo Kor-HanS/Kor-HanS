@@ -23,4 +23,4 @@
 
 
 ### 게임실력 & 코딩실력
-https://user-images.githubusercontent.com/99121615/209559238-48829f69-b1ba-43d4-a4c2-a88816ac2d79.mp4
+[https://user-images.githubusercontent.com/99121615/209559238-48829f69-b1ba-43d4-a4c2-a88816ac2d79.mp4](https://tenor.com/view/lastminute-assignment-busy-typing-jimcarrey-gif-6144320)
