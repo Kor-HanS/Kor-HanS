@@ -23,4 +23,4 @@
 
 
 ### 게임실력 & 코딩실력
-https://tenor.com/view/klei-oni-oxygen-not-included-dupe-rowan-gif-19665926
+![image](https://user-images.githubusercontent.com/99121615/209559362-cea5c20f-acb1-465b-99be-8fa734949216.png)
