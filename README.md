@@ -22,5 +22,5 @@
 </div>
 
 
-### 놀라운 배틀그라운드 실력  
-![158f6865d4336185b](https://user-images.githubusercontent.com/99121615/209558457-51b398a3-41a3-49c5-9a14-6d43fe55099b.gif)
+### 게임실력 & 코딩실력
+https://user-images.githubusercontent.com/99121615/209559238-48829f69-b1ba-43d4-a4c2-a88816ac2d79.mp4
