@@ -23,4 +23,4 @@
 
 
 ### 게임실력 & 코딩실력
-![image](https://user-images.githubusercontent.com/99121615/209559362-cea5c20f-acb1-465b-99be-8fa734949216.png)
+![klei-oni](https://user-images.githubusercontent.com/99121615/209559431-866985fc-8580-4fb7-8f86-e34731341b8c.gif)
