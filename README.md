@@ -6,9 +6,7 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hanking302)](https://solved.ac/hanking302/)
 
-
-### Tech Stack
-<div align=center><h1>📚 STACKS</h1></div>
+<div><h1> Tech StackS</h1></div>
 
 <div> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
