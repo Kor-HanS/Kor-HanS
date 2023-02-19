@@ -5,7 +5,7 @@
 
 ### 포톤 및 파이어베이스 서버 관련 프로젝트는 private 저장소로 전환되있습니다.  
 
-<img src="https://user-images.githubusercontent.com/99121615/219921986-ead93fbc-119b-4154-88cc-515bdc556f63.png  width="200" height="400"/>
+<img src="https://user-images.githubusercontent.com/99121615/219921986-ead93fbc-119b-4154-88cc-515bdc556f63.png" width="200" height="400"/>
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hanking302)](https://solved.ac/hanking302/)
