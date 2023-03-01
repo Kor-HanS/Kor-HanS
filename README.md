@@ -1,7 +1,7 @@
 # Kim Han Seung
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKor-HanS&count_bg=%230007FF&title_bg=%23555555&icon=&icon_color=%23FF0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-23년 1학기 시작 CS 공부 화이팅!
+### 23년 1학기 시작 CS 공부 화이팅!
 ### 숭실대학교 컴퓨터학부 3학년 재학중(19.03~) 
 ### 명덕고등학교 졸업(~18.02)
 
