@@ -1,9 +1,7 @@
 # Kim Han Seung
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKor-HanS&count_bg=%230007FF&title_bg=%23555555&icon=&icon_color=%23FF0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### 23년 1학기 시작 CS 공부 화이팅!
 ### 숭실대학교 컴퓨터학부 3학년 재학중(19.03~) 
-
 ### 포톤 및 파이어베이스 서버 관련 프로젝트는 private 저장소로 전환되있습니다.  
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hanking302)](https://solved.ac/hanking302/)
