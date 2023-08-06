@@ -30,10 +30,8 @@
 
 
 ### 게임실력 & 코딩실력
-![klei-oni](https://user-images.githubusercontent.com/99121615/209559431-866985fc-8580-4fb7-8f86-e34731341b8c.gif)
-
-
-![image](https://github.com/Kor-HanS/Kor-HanS/assets/99121615/25d394de-e3f5-4f23-8c39-559ca043d946)
+<img src="https://user-images.githubusercontent.com/99121615/209559431-866985fc-8580-4fb7-8f86-e34731341b8c.gif" width="600" height="400"/>
+<img src="https://github.com/Kor-HanS/Kor-HanS/assets/99121615/25d394de-e3f5-4f23-8c39-559ca043d946" width="600" height="400"/>
 <img src="https://user-images.githubusercontent.com/99121615/219943212-85a0e0d8-6a7f-4805-bca6-4939d91b580a.png" width="600" height="400"/>
 <img src="https://user-images.githubusercontent.com/99121615/219922089-f7a56698-beb7-4d16-a12b-f5ae181ac2c8.png" width="600" height="400"/>
 <img src="https://user-images.githubusercontent.com/99121615/219921986-ead93fbc-119b-4154-88cc-515bdc556f63.png" width="600" height="400"/>
