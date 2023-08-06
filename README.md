@@ -1,7 +1,7 @@
 # Kim Han Seung
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKor-HanS&count_bg=%230007FF&title_bg=%23555555&icon=&icon_color=%23FF0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### 숭실대학교 컴퓨터학부 3학년 재학중(19.03~) 
+### 숭실대학교 컴퓨터학부 3학년 2학기 재학중(19.03~) 
 ### C++ / UNREAL 공부 중...
 ### 유니티 게임 개발 관련 포톤 및 파이어베이스와 연관된 프로젝트는 PRIVATE 저장소로 전환되어 있습니다.  
 
