@@ -1,7 +1,7 @@
 # Kim Han Seung
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKor-HanS&count_bg=%230007FF&title_bg=%23555555&icon=&icon_color=%23FF0000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### 숭실대학교 컴퓨터학부 3학년 2학기 재학중(19.03~) 
+### Soongsil Univercity CSE
 ###  PRIVATE 저장소  
     1. P2P 방식의 다이스 게임 Yacht Dice 모작 (GoogleSignIn API(구글 로그인 구현) + Photon API(P2P 멀티 게임 구현) + Firebase Realtime-Database & Auth API (사용자 데이터베이스 및 게임 결과 저장) ) 유니티  
     2. Dino Run (Firebase Realtime-Database & Auth API(이메일 형식의 아이디 로그인 및 사용자의 점수 저장 및 랭킹 시스템 구현)) 유니티  
