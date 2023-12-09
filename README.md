@@ -3,8 +3,8 @@
 
 ### Soongsil Univercity CSE
 ###  PUBLIC 저장소  
-    1. Hell Poker Defense  / Game Engine : Unity / 싱글 게임 플레이 구현 /
-    2. Great Kingdom       / Game Engine : Unity / 싱글 게임 플레이 구현 /
+    1. Hell Poker Defense  / Game Engine : Unity / 싱글 게임 플레이 구현
+    2. Great Kingdom       / Game Engine : Unity / 싱글 게임 플레이 구현
 
 ###  PRIVATE 저장소  
     1. Yacht Dice          / Game Engine : Unity / 멀티 게임 플레이 구현 / GoogleSignIn API(Google Login) + Photon API(P2P multi-play) + Firebase Realtime-Database & Auth API (User Database)
