@@ -3,7 +3,7 @@
 
 ### Soongsil Univercity CSE
 ###  PUBLIC 저장소  
-    1. Hell Poker Defense  / Game Engine : Unity / 싱글 게임 플레이 구현
+    1. Poker Defense       / Game Engine : Unity / 싱글 게임 플레이 구현
     2. Great Kingdom       / Game Engine : Unity / 싱글 게임 플레이 구현
 
 ###  PRIVATE 저장소  
