@@ -7,7 +7,7 @@
     2. Great Kingdom  / Game Engine : Unity / 싱글 게임 플레이 구현
 
 ###  PRIVATE 저장소  
-    1. Yacht Dice     / Game Engine : Unity / 멀티 게임 플레이 구현 / GoogleSignIn API(Google Login) + Photon API(P2P multi-play) + Firebase Realtime-Database & Auth API (User Database)
+    1. Yacht Dice     / Game Engine : Unity / 멀티 게임 플레이 구현 / Firebase Realtime-Database & Auth API(User Database) + GoogleSignIn API(Google Login) + Photon Pun2 API(P2P multi-play)
     2. Dino Run       / Game Engine : Unity / 싱글 게임 플레이 구현 / Firebase Realtime-Database & Auth API(email-login & Ranking system)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hanking302)](https://solved.ac/hanking302/)
