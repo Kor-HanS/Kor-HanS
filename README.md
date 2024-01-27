@@ -35,9 +35,9 @@
 
 ### IDE 
 ![image](https://github.com/Kor-HanS/Kor-HanS/assets/99121615/ca77766d-8b04-4e33-b420-f6d657b43985)
-
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badg&logo=Visual%20Studio%20Code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![image](https://github.com/Kor-HanS/Kor-HanS/assets/99121615/690f9909-013a-4576-a0f9-21d654082add)
+
 
 ### OTHERS
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
