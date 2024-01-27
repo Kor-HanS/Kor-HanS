@@ -19,6 +19,11 @@
 
 [![Video Label](http://img.youtube.com/vi/KTIGlyd_Uak/0.jpg)](https://youtu.be/KTIGlyd_Uak)
 
+
+### Great KingDom 플레이 영상
+
+[![Video Label](http://img.youtube.com/vi/FozWlovzuY0/0.jpg)](https://youtu.be/FozWlovzuY0)
+
 ### Dino Run 플레이 영상
 
 [![Video Label](http://img.youtube.com/vi/X3L6orXCNUc/0.jpg)](https://youtu.be/X3L6orXCNUc)
