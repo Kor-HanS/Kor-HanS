@@ -12,6 +12,10 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hanking302)](https://solved.ac/hanking302/)
 
+### 게임 플레이 영상
+https://www.youtube.com/watch?v=KTIGlyd_Uak
+
+
 <div><h1> Tech Stacks</h1></div>
 
 ### MAIN STACK LANGUAGE
