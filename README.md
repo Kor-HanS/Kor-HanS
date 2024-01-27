@@ -13,12 +13,12 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hanking302)](https://solved.ac/hanking302/)
 
 ### 게임 플레이 영상
-# Yacht Dice 모작 플레이 영상
+### Yacht Dice 모작 플레이 영상
 
 [![Video Label](http://img.youtube.com/vi/KTIGlyd_Uak/0.jpg)](https://youtu.be/KTIGlyd_Uak)
 
 
-<div><h1> Tech Stacks</h1></div>
+# Tech Stacks 
 
 ### MAIN STACK LANGUAGE
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
